@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/sanjogregmi08.github.io/portfolio/static/css/main.9e1dcd0c.css",
+    "main.js": "/sanjogregmi08.github.io/portfolio/static/js/main.06497201.js",
+    "static/media/image1.png": "/sanjogregmi08.github.io/portfolio/static/media/image1.651b034d73edb01e01c2.png",
+    "static/media/project5.png": "/sanjogregmi08.github.io/portfolio/static/media/project5.0e2fc6d2c173ae07c521.png",
+    "static/media/mobile.jpg": "/sanjogregmi08.github.io/portfolio/static/media/mobile.da1915e7d0e5c5e23c90.jpg",
+    "static/media/profile02.jpg": "/sanjogregmi08.github.io/portfolio/static/media/profile02.5d42d01bfd80b6c95110.jpg",
+    "static/media/project3.jpg": "/sanjogregmi08.github.io/portfolio/static/media/project3.21369cd29deb0fcffc2f.jpg",
+    "static/media/hospital.jpg": "/sanjogregmi08.github.io/portfolio/static/media/hospital.f9f1dd07bc1d8cc699d0.jpg",
+    "static/media/sanjog_cv.pdf": "/sanjogregmi08.github.io/portfolio/static/media/sanjog_cv.72d80c52f87f8591d164.pdf",
+    "static/media/project4.png": "/sanjogregmi08.github.io/portfolio/static/media/project4.f727b38ddc487523d6b4.png",
+    "static/media/quiz.png": "/sanjogregmi08.github.io/portfolio/static/media/quiz.265c7f4a1ff8374a8dc5.png",
+    "static/media/game_booking.jpg": "/sanjogregmi08.github.io/portfolio/static/media/game_booking.22affd4c63c042cc8259.jpg",
+    "static/media/project2.jpg": "/sanjogregmi08.github.io/portfolio/static/media/project2.f2a63c23b8d29ea390e2.jpg",
+    "static/media/technova.jpg": "/sanjogregmi08.github.io/portfolio/static/media/technova.730e704af79ad274b052.jpg",
+    "static/media/slick.svg": "/sanjogregmi08.github.io/portfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sanjogregmi08.github.io/portfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/sanjogregmi08.github.io/portfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sanjogregmi08.github.io/portfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/sanjogregmi08.github.io/portfolio/index.html",
+    "main.9e1dcd0c.css.map": "/sanjogregmi08.github.io/portfolio/static/css/main.9e1dcd0c.css.map",
+    "main.06497201.js.map": "/sanjogregmi08.github.io/portfolio/static/js/main.06497201.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e1dcd0c.css",
+    "static/js/main.06497201.js"
+  ]
+}
